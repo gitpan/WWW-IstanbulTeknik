@@ -1,0 +1,40 @@
+WWW::IstanbulTeknik
+===========
+
+Programmer interface to Istanbul Technical University sites
+(incomplete framework).
+
+Read the module's POD (mostly in turkish) for 
+documentation and examples.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+or under Windows:
+
+   perl Makefile.PL
+   nmake
+   nmake test
+   nmake install
+
+DEPENDENCIES
+
+This module requires these other modules:
+
+	WWW::Mechanize			1.02
+	HTML::TableContentParser	0.13
+
+Which are available on CPAN.
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2004 Burak Gürsoy <burak@cpan.org>. All rights reserved.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself. 

@@ -1,0 +1,9 @@
+lib/WWW/IstanbulTeknik.pm
+lib/WWW/IstanbulTeknik/SIS.pm
+lib/WWW/IstanbulTeknik/SIS/Schedules.pm
+Changes
+Makefile.PL
+MANIFEST
+README
+t/01_use.t
+META.yml                                 Module meta-data (added by MakeMaker)
